@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on pet projects.
+- 🌱 I’m currently learning C/C++, Java, and Python.
+- 👯 I’m looking to collaborate on back-end development projects.
+- 🤔 I’m looking for help with school projects.
 <!--
 **ChingDE/ChingDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
